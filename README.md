@@ -183,7 +183,7 @@ Password : admin123
 
 **Karan Salunkhe**
 - GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/karansalunkhe804/)
 
 ---
 
